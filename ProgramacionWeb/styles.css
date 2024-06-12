@@ -1,0 +1,32 @@
+#titulo {
+    display: inline;
+    color: gold;  
+    font-size: 48px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: orange;
+    font-style: oblique;
+}
+
+#titulo2 {
+    color: blue
+}
+#ns {
+  color: red;
+}
+
+#ps {
+    color: blueviolet;
+}
+
+#xsx {
+    color: green;
+}
+
+#pañales {
+    color: darkslategray;
+}
+
+#nv {
+    color: pink
+}
